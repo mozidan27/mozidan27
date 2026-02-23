@@ -32,14 +32,14 @@
 
   <!-- Android -->
   <a href="https://play.google.com/store/apps/details?id=com.jstore.users" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+    <img src="https://www.svgrepo.com/show/327366/logo-google-playstore.svg"
          alt="Get it on Google Play"
          height="60"/>
   </a>
 
   <!-- iOS -->
   <a href="https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%B3%D8%AA%D9%88%D8%B1/id6738069584" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+    <img src="https://www.svgrepo.com/show/327337/logo-apple-appstore.svg"
          alt="Download on the App Store"
          height="60"/>
   </a>
