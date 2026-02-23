@@ -32,7 +32,7 @@
 
   <!-- Android -->
   <a href="https://play.google.com/store/apps/details?id=com.jstore.users" target="_blank">
-    <img src="https://static.cdnlogo.com/logos/g/90/google-play.svg"
+    <img src="https://pt.wikipedia.org/wiki/Ficheiro:Google_Play_2022_icon.svg"
          alt="Get it on Google Play"
          height="60"/>
   </a>
