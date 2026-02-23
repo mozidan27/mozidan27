@@ -21,6 +21,17 @@
 <h3 align="left">Published Projects:</h3>
 
 <p align="left">
+  <strong>Hayn</strong><br><br>
+
+  <!-- iOS -->
+  <a href="https://apps.apple.com/eg/app/hayn-%D9%87%D9%8A%D9%86/id6748265811" target="_blank">
+    <img src="https://www.logo.wine/a/logo/App_Store_(iOS)/App_Store_(iOS)-Logo.wine.svg"
+         alt="Download on the App Store"
+         height="60"/>
+  </a>
+</p>
+
+<p align="left">
   <strong>JStore</strong><br><br>
 
   <!-- Android -->
