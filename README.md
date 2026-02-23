@@ -28,7 +28,7 @@
 <h3 align="left">Published Projects:</h3>
 
 <p align="left">
-  <strong>**JStore**</strong><br><br>
+  <strong>JStore</strong><br><br>
 
   <!-- Android -->
   <a href="https://play.google.com/store/apps/details?id=com.jstore.users" target="_blank">
