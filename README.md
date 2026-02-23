@@ -27,7 +27,7 @@
 
 <h3 align="left">Published Projects:</h3>
 <p align="left">
-  **Jstore**
+- ⚡ Fun fact **Am funnyy**
 <a href="https://twitter.com/mozidan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozidan27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mozidan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozidan27" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_zidannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_zidannn" height="30" width="40" /></a>
