@@ -32,7 +32,7 @@
 
   <!-- Android -->
   <a href="https://play.google.com/store/apps/details?id=com.jstore.users" target="_blank">
-    <img src="https://www.pngall.com/wp-content/uploads/15/Google-Play-Logo-No-Background.png"
+    <img src="https://static.cdnlogo.com/logos/g/90/google-play.svg"
          alt="Get it on Google Play"
          height="60"/>
   </a>
